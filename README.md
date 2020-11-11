@@ -7,7 +7,7 @@ Espaço para colaboração em assuntos acadêmicos sobre engenharia, computaçã
 
 ## Conheça nosso portfólio 
 
-link 1 https://open.spotify.com/show/01w0vZrR8vts8jnWugpHNW
+https://open.spotify.com/show/01w0vZrR8vts8jnWugpHNW
 
 link 2
 
@@ -15,7 +15,8 @@ https://castbox.fm/channel/id3464793?utm_source=website&utm_medium=dlink&utm_cam
 
 abc
 
-![Spotify logo](img/PNG/spotify-podcast-badge-blk-grn-165x40.png)
+![Spotify logo](img/PNG/spotify-podcast-badge-blk-grn-165x40.png) (https://open.spotify.com/show/01w0vZrR8vts8jnWugpHNW
+)
 
 123
 
