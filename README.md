@@ -12,7 +12,7 @@ link 1 https://open.spotify.com/show/01w0vZrR8vts8jnWugpHNW
 link 2
 
 a[target="_blank"]::after {
-  content: url("img/PNG/spotify-podcast-badge-blk-grn-660x160.png");
+  content: url("/img/PNG/spotify-podcast-badge-blk-grn-660x160.png");
   margin: 0 3px 0 5px;
 }
 
