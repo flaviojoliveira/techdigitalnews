@@ -16,8 +16,15 @@ a[target="_blank"]::after {
   margin: 0 3px 0 5px;
 }
 
-![Um tidre bonito](https://i.pinimg.com/600x315/bd/c2/1c/bdc21cccc59b18d8e117bf26c972ce20.jpg)
+![Spotify logo](/Users/flavio/Documents/ProjetosGit/techdigitalnews/img/PNG/spotify-podcast-badge-blk-grn-660x160.png)
 
+123
+
+![Spotify logo](/Users/flavio/Documents/ProjetosGit/techdigitalnews/img/PNG/spotify-podcast-badge-blk-grn-660x160.png)
+
+123
+
+![Spotify logo](/Users/flavio/Documents/ProjetosGit/techdigitalnews/img/PNG/spotify-podcast-badge-blk-grn-660x160.png)
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
