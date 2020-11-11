@@ -1,6 +1,8 @@
 # techdigitalnews
 Portfólio Podcast
 
+require "Colaboracão""
+
 # Portfólio Podcast - TechDigital News
 
 Espaço para colaboração em assuntos acadêmicos sobre engenharia, computação e controle de sistemas
@@ -12,6 +14,10 @@ https://open.spotify.com/show/01w0vZrR8vts8jnWugpHNW
 link 2
 
 https://castbox.fm/channel/id3464793?utm_source=website&utm_medium=dlink&utm_campaign=web_share&utm_content=TechDigital%20News-CastBox_FM
+
+
+https://castbox.fm/channel/TechDigital-News-id3464793?utm_source=website&utm_medium=dlink&utm_campaign=web_share&utm_content=TechDigital%20News-CastBox_FM
+
 
 abc
 
@@ -46,6 +52,7 @@ foobar.singularize('phenomena') # returns 'phenomenon'
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
+
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
