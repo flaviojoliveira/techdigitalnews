@@ -16,7 +16,7 @@ a[target="_blank"]::after {
   margin: 0 3px 0 5px;
 }
 
-![Spotify logo](/Users/flavio/Documents/ProjetosGit/techdigitalnews/img/PNG/spotify-podcast-badge-blk-grn-660x160.png)
+![Spotify logo](img/PNG/spotify-podcast-badge-blk-grn-165x40.png)
 
 123
 
