@@ -18,11 +18,11 @@ abc
 
 123
 
-![Spotify logo](/Users/flavio/Documents/ProjetosGit/techdigitalnews/img/PNG/spotify-podcast-badge-blk-grn-660x160.png)
+![Spotify logo](img/PNG/spotify-podcast-badge-blk-grn-330x80.png)
 
 123
 
-![Spotify logo](/Users/flavio/Documents/ProjetosGit/techdigitalnews/img/PNG/spotify-podcast-badge-blk-grn-660x160.png)
+![Spotify logo](img/PNG/spotify-podcast-badge-blk-grn-660x160.png)
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
