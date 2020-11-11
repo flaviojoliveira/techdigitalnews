@@ -7,8 +7,14 @@ Espaço para colaboração em assuntos acadêmicos sobre engenharia, computaçã
 
 ## Conheça nosso portfólio 
 
-link 1
+link 1 https://open.spotify.com/show/01w0vZrR8vts8jnWugpHNW
+
 link 2
+
+a[target="_blank"]::after {
+  content: url("../images/icons/link_external.svg");
+  margin: 0 3px 0 5px;
+}
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
