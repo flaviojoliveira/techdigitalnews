@@ -3,8 +3,8 @@ Portfólio Podcast
 
 # Portfólio Podcast - TechDigital News
 
-Atividades acadêmicas sobre Teoria de Controle Moderno, Fenômenos de Transporte e Termodinâmica
- 
+Espaço para colaboração em assuntos acadêmicos sobre engenharia, computação e controle de sistemas
+
 ## Conheça nosso portfólio 
 
 link 1
