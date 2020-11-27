@@ -8,7 +8,7 @@ Espaço para colaboração sobre assuntos acadêmicos com temáticas relacionada
 
 > Conheça o Grupo de estudo e pesquisa em Engenharia e Computação denominando TechDigital News.
 
-> Este repositório é parte de uma ação inovadora e motivadora promovida pelo professor **Flávio Oliveira**, que, juntamente com um grupo de estudantes e profissionais convidados nas áreas de Engenharia, Computação e Sistemas de Contole promovem discussões sobre conteúdos e temas em Tecnologia.
+> Este repositório é parte de uma ação inovadora e motivadora promovida pelo professor **Flávio Oliveira**, que, juntamente com um grupo de estudantes e profissionais convidados nas áreas de Engenharia, Computação e Sistemas de Contole promovem discussões sobre conteúdos e temas relevantes sobre Tecnologia.
 
 ## Conheça nosso portfólio 
 
