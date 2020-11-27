@@ -16,12 +16,6 @@ Espaço para colaboração sobre assuntos acadêmicos com temáticas relacionada
 
 [![Linkedin Badge](img/PNG/castbox.png)](https://castbox.fm/channel/id3464793?utm_source=website&utm_medium=dlink&utm_campaign=web_share&utm_content=TechDigital%20News-CastBox_FM)
 
-## Contribua com o projeto
-
-Todo conhecimento deveria ser compartilhado.
-
-Devemos aprender, praticar e ensinar. Esse é o ciclo para aprendermos cada vez mais em nossos projetos.
-
 ## Acadêmicos / profissionais participantes no repositório de PodCast
 
 Conheça nossos particiantes:
@@ -39,6 +33,17 @@ Conheça nossos particiantes:
 
 
 
+## Contribua com o projeto
+
+Todo conhecimento deveria ser compartilhado.
+
+Devemos aprender, praticar e ensinar. Esse é o ciclo para aprendermos cada vez mais em nossos projetos.
+
+## Acompanhe nossas publicações nas redes sociais.
+
+[![Github Badge](img/PNG/discord48.png) ](https://discord.gg/DM6RaEXV2m)
+[![Linkedin Badge](img/PNG/int48.png)](https://www.instagram.com/?hl=pt-br)
+
 ## About me
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/flaviojoliveira)
@@ -47,9 +52,3 @@ Conheça nossos particiantes:
 
 ## License
 Todo o material sob licença [MIT](https://choosealicense.com/licenses/mit/).
-
-
-## Acompanhe nossas publicações nas redes sociais.
-
-[![Github Badge](img/PNG/discord48.png) ](https://discord.gg/DM6RaEXV2m)
-[![Linkedin Badge](img/PNG/int48.png)](https://www.instagram.com/?hl=pt-br)
