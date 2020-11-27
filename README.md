@@ -20,17 +20,7 @@ Espaço para colaboração sobre assuntos acadêmicos com temáticas relacionada
 
 Todo conhecimento deveria ser compartilhado.
 
-Devemos aprender, praticar e ensinar. Esse é o ciclo para aprendermos cada vez mais em nossos projetos..
-
-Para maiores informações em participar das atividades e  publicação de conteúdo entre em contato
-
-
-
-<a href="[url](https://discord.gg/DM6RaEXV2m)"><img src="img/PNG/2discord.png" align="left" height="120" width="120" ></a>
-
-
-<a href="url"><img src="img/PNG/int1.png" align="left" height="120" width="120" ></a>
-
+Devemos aprender, praticar e ensinar. Esse é o ciclo para aprendermos cada vez mais em nossos projetos.
 
 ## Acadêmicos / profissionais participantes no repositório de PodCast
 
@@ -50,6 +40,14 @@ About me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/flaviojoliveira/)
 
 
-
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+Para maiores informações em participar das atividades e  publicação de conteúdo entre em contato
+
+
+
+<a href="[url](https://discord.gg/DM6RaEXV2m)"><img src="img/PNG/2discord.png" align="left" height="120" width="120" ></a>
+
+
+<a href="[url](https://www.instagram.com/?hl=pt-br)"><img src="img/PNG/int1.png" align="left" height="120" width="120" ></a>
