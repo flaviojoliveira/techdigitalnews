@@ -8,7 +8,7 @@ Espaço para colaboração sobre assuntos acadêmicos com temáticas relacionada
 
 > Conheça o Grupo de estudo e pesquisa em Engenharia e Computação denominando TechDigital News.
 
-> Este repositório é parte de uma ação inovadora e motivadora promovida pelo professor **Flávio Oliveira**, que, juntamente com um grupo de estudantes e profissionais convidados nas áreas de Engenharia, Computação e Sistemas de Contole promoveram discussões sobre conteúdos e temas em Tecnologia.
+> Este repositório é parte de uma ação inovadora e motivadora promovida pelo professor **Flávio Oliveira**, que, juntamente com um grupo de estudantes e profissionais convidados nas áreas de Engenharia, Computação e Sistemas de Contole promovem discussões sobre conteúdos e temas em Tecnologia.
 
 ## Conheça nosso portfólio 
 
@@ -29,7 +29,7 @@ Instagram
 
 ## Acadêmicos / profissionais participantes no repositório de PodCast
 
-Conheça cada uma de nossos particiantes:
+Conheça nossos particiantes:
 
 - [x] Dyonathan Almeida [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/rafael-emidio-duarte-86697135)
 
