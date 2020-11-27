@@ -33,20 +33,23 @@ Conheça nossos particiantes:
 - [x] Rafael Emídio Duarte [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/rafael-emidio-duarte-86697135)
 
 - [x] Thiago Lima [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/rafael-emidio-duarte-86697135)
+- [ ] .
+- [ ] .
+- [ ] .
 
-About me
+
+
+## About me
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/flaviojoliveira)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/flaviojoliveira/)
 
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
-
-Para maiores informações em participar das atividades e  publicação de conteúdo entre em contato
+Todo o material sob licença [MIT](https://choosealicense.com/licenses/mit/).
 
 
-[![Github Badge](img/PNG/2discord.png) ](https://discord.gg/DM6RaEXV2m)
-[![Linkedin Badge](img/PNG/int1.png)](https://www.instagram.com/?hl=pt-br)
+## Acompanhe nossas publicações nas redes sociais.
 
-
+[![Github Badge](img/PNG/discord48.png) ](https://discord.gg/DM6RaEXV2m)
+[![Linkedin Badge](img/PNG/int48.png)](https://www.instagram.com/?hl=pt-br)
