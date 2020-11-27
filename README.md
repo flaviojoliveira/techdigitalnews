@@ -50,7 +50,3 @@ Para maiores informações em participar das atividades e  publicação de conte
 [![Linkedin Badge](img/PNG/int1.png)](https://www.instagram.com/?hl=pt-br)
 
 
-<a href="[url](https://discord.gg/DM6RaEXV2m)"><img src="img/PNG/2discord.png" align="left" height="120" width="120" ></a>
-
-
-<a href="[url](https://www.instagram.com/?hl=pt-br)"><img src="img/PNG/int1.png" align="left" height="98" width="108" ></a>
