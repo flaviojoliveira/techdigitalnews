@@ -24,13 +24,13 @@ Devemos aprender, praticar e ensinar. Esse é o ciclo para aprendermos cada vez 
 
 Para maiores informações em participar das atividades e  publicação de conteúdo entre em contato
 
-[![Linkedin Badge](img/PNG/castbox.png)](https://castbox.fm/channel/id3464793?utm_source=website&utm_medium=dlink&utm_campaign=web_share&utm_content=TechDigital%20News-CastBox_FM)
 
-[![Discord Badge](img/1discord.png)](https://)
 
-Instagram
+<a href="[url](https://discord.gg/DM6RaEXV2m)"><img src="img/PNG/2discord.png" align="left" height="120" width="120" ></a>
 
-[![Discord Badge](img/2discord.png)](https://)
+
+<a href="url"><img src="img/PNG/int1.png" align="left" height="120" width="120" ></a>
+
 
 ## Acadêmicos / profissionais participantes no repositório de PodCast
 
