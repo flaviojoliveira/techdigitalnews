@@ -8,7 +8,7 @@ Espaço para colaboração sobre assuntos acadêmicos com temáticas relacionada
 
 > Conheça o Grupo de estudo e pesquisa em Engenharia e Computação denominando TechDigital News.
 
-> Este repositório é parte de uma ação inovadora e motivadora promovida pelo professor **Flávio Oliveira**, que, juntamente com um grupo de estudantes e profissionais convidados nas áreas de Engenharia, Computação e Sistemas de Contole promovem discussões sobre conteúdos e temas relevantes sobre Tecnologia.
+ Este repositório é parte de uma ação inovadora e motivadora promovida pelo professor **Flávio Oliveira**, que, juntamente com um grupo de estudantes e profissionais convidados nas áreas de Engenharia, Computação e Sistemas de Contole promovem discussões sobre conteúdos e temas relevantes sobre Tecnologia.
 
 ## Conheça nosso portfólio 
 
@@ -24,8 +24,13 @@ Devemos aprender, praticar e ensinar. Esse é o ciclo para aprendermos cada vez 
 
 Para maiores informações em participar das atividades e  publicação de conteúdo entre em contato
 
-Discord
+[![Linkedin Badge](img/PNG/castbox.png)](https://castbox.fm/channel/id3464793?utm_source=website&utm_medium=dlink&utm_campaign=web_share&utm_content=TechDigital%20News-CastBox_FM)
+
+[![Discord Badge](img/1discord.png)](https://)
+
 Instagram
+
+[![Discord Badge](img/2discord.png)](https://)
 
 ## Acadêmicos / profissionais participantes no repositório de PodCast
 
